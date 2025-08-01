@@ -1,0 +1,56 @@
+/* Dialog Paper Styling */
+.dialog-paper {
+    width: 449px;
+    height: 350px;
+    padding: 20px;
+    border: 25px solid #488DD2;
+    border-radius: 25px;
+  }
+  
+  /* Dialog Content Styling */
+  .dialog-content {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 216px !important;
+    overflow: hidden !important;
+  }
+  
+  /* Content Box Styling */
+  .content-box {
+    background-color: #F0F0F0 !important;
+    padding: 10px !important;
+    border-radius: 5px !important;
+    width: 380px !important;
+    height: 216px !important;
+    overflow: hidden !important;
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+    word-wrap: break-word !important;
+  }
+  
+  /* Dialog Actions Styling */
+  .dialog-actions {
+    display: flex !important;
+    justify-content: space-between !important;
+    padding: 10px !important;
+  }
+  
+  /* Cancel Button Styling */
+  .cancel-button {
+    width: 149px !important;
+    height: 44px !important;
+    border-radius: 15px !important;
+    background: #FF0000 !important;
+    color: white !important;
+  }
+  
+  /* Confirm Button Styling */
+  .confirm-button {
+    width: 149px !important;
+    height: 44px !important;
+    border-radius: 15px !important;
+    background-color: #008000 !important;
+    color: white !important;
+  }
+  

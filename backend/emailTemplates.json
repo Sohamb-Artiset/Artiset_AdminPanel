@@ -1,0 +1,19 @@
+{
+    "registration": {
+      "subject": "Welcome! Your Registration is Successful 🎉",
+      "body": "Dear User,<br><br>Thank you for registering with us. We’re excited to have you onboard!<br><br>Best Regards,<br>Admin Team"
+    },
+    "update": {
+      "subject": "Important Update on Your Account 🚀",
+      "body": "Dear User,<br><br>We have made important updates to your account. Please review them at your earliest convenience.<br><br>Best Regards,<br>Admin Team"
+    },
+    "reminder": {
+      "subject": "Friendly Reminder! ⏳",
+      "body": "Dear User,<br><br>This is a gentle reminder for an upcoming event.<br><br>Best Regards,<br>Admin Team"
+    },
+    "result": {
+      "subject": "Your Results Are Now Available! 🎯",
+      "body": "Dear User,<br><br>Congratulations! Your results are now available. Check them now!<br><br>Best Regards,<br>Admin Team"
+    }
+  }
+  
